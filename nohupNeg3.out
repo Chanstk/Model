@@ -1,0 +1,101 @@
+Prepare postive samples
+The picture has been already enough done
+The number of postvie samples is 29000
+Prepare negtive samples
+ done
+The number of negtive samples is 20
+***********************************
+Before trim the num of posIndex is 29000
+Before trim the num of negIndex is 87000
+The minLeaf at this stage is 1160
+Iter 0: nPos=29000, nNeg=87000, The FAR of this tree is 90.4%
+This DQT contains 28 nodes
+FAR at 0 stage is 90.4%
+***********************************
+Before trim the num of posIndex is 29000
+Before trim the num of negIndex is 78648
+The minLeaf at this stage is 1076
+Iter 1: nPos=29000, nNeg=78648, The FAR of this tree is 46.1321%
+This DQT contains 30 nodes
+FAR at 1 stage is 41.7034%
+***********************************
+Before trim the num of posIndex is 29000
+Before trim the num of negIndex is 36282
+The minLeaf at this stage is 614
+Iter 2: nPos=29000, nNeg=32446, The FAR of this tree is 64.6381%
+This DQT contains 32 nodes
+FAR at 2 stage is 26.9563%
+***********************************
+Before trim the num of posIndex is 29000
+Before trim the num of negIndex is 23452
+The minLeaf at this stage is 488
+Iter 3: nPos=29000, nNeg=19820, The FAR of this tree is 99.9659%
+This DQT contains 33 nodes
+FAR at 3 stage is 26.9471%
+***********************************
+Before trim the num of posIndex is 29000
+Before trim the num of negIndex is 23444
+The minLeaf at this stage is 479
+Iter 4: nPos=29000, nNeg=18850, The FAR of this tree is 86.1244%
+This DQT contains 33 nodes
+FAR at 4 stage is 23.208%
+***********************************
+Before trim the num of posIndex is 29000
+Before trim the num of negIndex is 20191
+The minLeaf at this stage is 450
+Iter 5: nPos=29000, nNeg=16029, The FAR of this tree is 66.9209%
+This DQT contains 32 nodes
+FAR at 5 stage is 15.531%
+
+
+No enough negative samples. The AdaBoost learning terminates at iteration 5. nNegPass = 13512.
+The adaboost training is finished at inner cycle.
+Weak classifier 6 FAR: 0.15531
+Bootstrap negtive samples
+Bootstrap Done
+After bootstrap :87000
+Test current model
+Warning: some positive samples cannot pass all stages. pass rate is 0.999862
+Warning: some negative samples cannot pass all stages, pass rate is 0.288368
+***********************************
+Before trim the num of posIndex is 28996
+Before trim the num of negIndex is 25088
+The minLeaf at this stage is 230
+Iter 6: nPos=3832, nNeg=19126, The FAR of this tree is 21.4326%
+This DQT contains 33 nodes
+FAR at 6 stage is 3.3287%
+
+
+No enough negative samples. The AdaBoost learning terminates at iteration 6. nNegPass = 5377.
+The adaboost training is finished at inner cycle.
+Weak classifier 7 FAR: 0.033287
+Bootstrap negtive samples
+Bootstrap Done
+After bootstrap :87000
+Test current model
+Warning: some positive samples cannot pass all stages. pass rate is 0.999862
+Warning: some negative samples cannot pass all stages, pass rate is 0.0963103
+***********************************
+Before trim the num of posIndex is 28996
+Before trim the num of negIndex is 8379
+The minLeaf at this stage is 110
+Iter 7: nPos=4134, nNeg=6888, The FAR of this tree is 16.9352%
+This DQT contains 41 nodes
+FAR at 7 stage is 0.563722%
+
+
+No enough negative samples. The AdaBoost learning terminates at iteration 7. nNegPass = 1419.
+The adaboost training is finished at inner cycle.
+Weak classifier 8 FAR: 0.00563722
+Bootstrap negtive samples
+Bootstrap Done
+After bootstrap :87000
+Test current model
+Warning: some positive samples cannot pass all stages. pass rate is 0.999862
+Warning: some negative samples cannot pass all stages, pass rate is 0.0228391
+
+No enough negative samples. The Adaboost learning terninates at iteration 8. nNegPass = 1987
+The adaboost training is finished at inner cycle.
+
+
+No effective features for further detector learning.

@@ -1,0 +1,78 @@
+Prepare postive samples
+ done
+The number of postvie samples is 29849
+Prepare negtive samples
+ done
+The number of negtive samples is 20
+***********************************
+Before trim the num of posIndex is 29849
+Before trim the num of negIndex is 59698
+The minLeaf at this stage is 895
+Iter 0: nPos=29849, nNeg=59698, 
+The FAR of this tree is 94.9479%
+This DQT contains 22 nodes
+FAR at 0 stage is 94.9479%
+***********************************
+Before trim the num of posIndex is 29849
+Before trim the num of negIndex is 59698
+The minLeaf at this stage is 865
+Iter 1: nPos=29849, nNeg=56682, 
+The FAR of this tree is 37.1388%
+This DQT contains 23 nodes
+FAR at 1 stage is 35.2625%
+***********************************
+Before trim the num of posIndex is 29849
+Before trim the num of negIndex is 59698
+The minLeaf at this stage is 853
+Iter 2: nPos=28070, nNeg=57191, 
+The FAR of this tree is 46.6059%
+This DQT contains 30 nodes
+FAR at 2 stage is 16.4344%
+***********************************
+Before trim the num of posIndex is 29849
+Before trim the num of negIndex is 59698
+The minLeaf at this stage is 796
+Iter 3: nPos=26698, nNeg=52878, 
+The FAR of this tree is 30.2518%
+This DQT contains 26 nodes
+FAR at 3 stage is 4.97169%
+***********************************
+Before trim the num of posIndex is 29849
+Before trim the num of negIndex is 59698
+The minLeaf at this stage is 782
+Iter 4: nPos=26316, nNeg=51837, 
+The FAR of this tree is 33.0863%
+This DQT contains 24 nodes
+FAR at 4 stage is 1.64495%
+***********************************
+Before trim the num of posIndex is 29849
+Before trim the num of negIndex is 59698
+The minLeaf at this stage is 763
+Iter 5: nPos=26858, nNeg=49406, 
+The FAR of this tree is 32.5866%
+This DQT contains 29 nodes
+FAR at 5 stage is 0.536031%
+***********************************
+Before trim the num of posIndex is 29849
+Before trim the num of negIndex is 59698
+The minLeaf at this stage is 605
+Iter 6: nPos=21319, nNeg=39202, 
+The FAR of this tree is 2.8125%
+This DQT contains 31 nodes
+FAR at 6 stage is 0.0150759%
+***********************************
+Before trim the num of posIndex is 29849
+Before trim the num of negIndex is 59698
+The minLeaf at this stage is 522
+Iter 7: nPos=17805, nNeg=34416, 
+The FAR of this tree is 0%
+This DQT contains 28 nodes
+FAR at 7 stage is 0%
+
+
+The training is converged at iteration 7. FAR = 0.00%
+The adaboost training is finished at inner cycle.
+Weak classifier 8 FAR: 0
+
+
+The detector training is finished.

@@ -1,0 +1,64 @@
+Prepare postive samples
+The picture has been already enough
+ done
+The number of postvie samples is 20000
+Prepare negtive samples
+The picture has been already enough
+ done
+The number of negtive samples is 40000
+***********************************
+Before trim the num of posIndex is 20000
+Before trim the num of negIndex is 40000
+The minLeaf at this stage is 3000
+Iter 0: nPos=20000, nNeg=40000, 
+The FAR of this tree is 31.745%
+This DQT contains 10 nodes
+FAR at 0 stage is 31.745%
+***********************************
+Before trim the num of posIndex is 20000
+Before trim the num of negIndex is 40000
+The minLeaf at this stage is 3000
+Iter 1: nPos=20000, nNeg=40000, 
+The FAR of this tree is 15.8275%
+This DQT contains 10 nodes
+FAR at 1 stage is 5.02444%
+***********************************
+Before trim the num of posIndex is 20000
+Before trim the num of negIndex is 40000
+The minLeaf at this stage is 3000
+Iter 2: nPos=20000, nNeg=40000, 
+The FAR of this tree is 4.7825%
+This DQT contains 11 nodes
+FAR at 2 stage is 0.240294%
+***********************************
+Before trim the num of posIndex is 20000
+Before trim the num of negIndex is 40000
+The minLeaf at this stage is 2801
+Iter 3: nPos=16011, nNeg=40000, 
+The FAR of this tree is 1.9975%
+This DQT contains 10 nodes
+FAR at 3 stage is 0.00479987%
+***********************************
+Before trim the num of posIndex is 20000
+Before trim the num of negIndex is 40000
+The minLeaf at this stage is 2004
+Iter 4: nPos=12991, nNeg=27092, 
+The FAR of this tree is 0.62%
+This DQT contains 12 nodes
+FAR at 4 stage is 2.97592e-05%
+***********************************
+Before trim the num of posIndex is 20000
+Before trim the num of negIndex is 40000
+The minLeaf at this stage is 1747
+Iter 5: nPos=10515, nNeg=24423, 
+The FAR of this tree is 0.3475%
+This DQT contains 12 nodes
+FAR at 5 stage is 1.03413e-07%
+
+
+The training is converged at iteration 5. FAR = 0.00%
+The adaboost training is finished at inner cycle.
+Weak classifier 6 FAR: 1.03413e-09
+
+
+The detector training is finished.
