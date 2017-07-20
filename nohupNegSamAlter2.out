@@ -1,0 +1,56 @@
+Prepare postive samples
+The picture has been already enough
+ done
+The number of postvie samples is 25000
+Prepare negtive samples
+The picture has been already enough
+ done
+The number of negtive samples is 37500
+***********************************
+Before trim the num of posIndex is 25000
+Before trim the num of negIndex is 37500
+The minLeaf at this stage is 1875
+Iter 0: nPos=25000, nNeg=37500, 
+The FAR of this tree is 31.1387%
+This DQT contains 11 nodes
+FAR at 0 stage is 31.1387%
+***********************************
+Before trim the num of posIndex is 25000
+Before trim the num of negIndex is 37500
+The minLeaf at this stage is 1875
+Iter 1: nPos=25000, nNeg=37500, 
+The FAR of this tree is 10.7413%
+This DQT contains 13 nodes
+FAR at 1 stage is 3.34471%
+***********************************
+Before trim the num of posIndex is 25000
+Before trim the num of negIndex is 37500
+The minLeaf at this stage is 1875
+Iter 2: nPos=25000, nNeg=37500, 
+The FAR of this tree is 2.336%
+This DQT contains 14 nodes
+FAR at 2 stage is 0.0781324%
+***********************************
+Before trim the num of posIndex is 25000
+Before trim the num of negIndex is 37500
+The minLeaf at this stage is 1875
+Iter 3: nPos=25000, nNeg=37500, 
+The FAR of this tree is 1.01333%
+This DQT contains 13 nodes
+FAR at 3 stage is 0.000791742%
+***********************************
+Before trim the num of posIndex is 25000
+Before trim the num of negIndex is 37500
+The minLeaf at this stage is 1875
+Iter 4: nPos=25000, nNeg=37500, 
+The FAR of this tree is 0.544%
+This DQT contains 14 nodes
+FAR at 4 stage is 4.30707e-06%
+
+
+The training is converged at iteration 4. FAR = 0.00%
+The adaboost training is finished at inner cycle.
+Weak classifier 5 FAR: 4.30707e-08
+
+
+The detector training is finished.
