@@ -1,0 +1,59 @@
+Prepare postive samples
+The picture has been already enough
+ done
+The number of postvie samples is 20000
+Prepare negtive samples
+ done
+The number of negtive samples is 2846
+***********************************
+Before trim the num of posIndex is 20000
+Before trim the num of negIndex is 40000
+The minLeaf at this stage is 1000
+Iter 0: nPos=20000, nNeg=40000, 
+The FAR of this tree is 16.9975%
+This DQT contains 18 nodes
+FAR at 0 stage is 16.9975%
+***********************************
+Before trim the num of posIndex is 20000
+Before trim the num of negIndex is 6799
+The minLeaf at this stage is 1000
+Iter 1: nPos=20000, nNeg=6799, 
+The FAR of this tree is 16.223%
+This DQT contains 10 nodes
+FAR at 1 stage is 2.7575%
+
+
+No enough negative samples. The AdaBoost learning terminates at iteration 1. nNegPass = 1103.
+The adaboost training is finished at inner cycle.
+Weak classifier 2 FAR: 0.027575
+Bootstrap negtive samples
+Bootstrap Done
+After bootstrap :40000
+Test current model
+Warning: some positive samples cannot pass all stages. pass rate is 0.97485
+Warning: some negative samples cannot pass all stages, pass rate is 0.056625
+***********************************
+Before trim the num of posIndex is 19497
+Before trim the num of negIndex is 2265
+The minLeaf at this stage is 1000
+Iter 2: nPos=19497, nNeg=2265, 
+The FAR of this tree is 12.4062%
+This DQT contains 10 nodes
+FAR at 2 stage is 0.3421%
+
+
+No enough negative samples. The AdaBoost learning terminates at iteration 2. nNegPass = 281.
+The adaboost training is finished at inner cycle.
+Weak classifier 3 FAR: 0.003421
+Bootstrap negtive samples
+Bootstrap Done
+After bootstrap :40000
+Test current model
+Warning: some positive samples cannot pass all stages. pass rate is 0.96025
+Warning: some negative samples cannot pass all stages, pass rate is 0.01155
+
+No enough negative samples. The Adaboost learning terninates at iteration 3. nNegPass = 462
+The adaboost training is finished at inner cycle.
+
+
+No effective features for further detector learning.

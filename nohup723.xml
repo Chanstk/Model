@@ -1,0 +1,119 @@
+Prepare postive samples
+The picture has been already enough
+ done
+The number of postvie samples is 20000
+Prepare negtive samples
+ done
+The number of negtive samples is 2846
+***********************************
+Before trim the num of posIndex is 20000
+Before trim the num of negIndex is 40000
+The minLeaf at this stage is 1000
+Iter 0: nPos=20000, nNeg=40000, 
+The FAR of this tree is 85.5775%
+This DQT contains 21 nodes
+FAR at 0 stage is 85.5775%
+***********************************
+Before trim the num of posIndex is 20000
+Before trim the num of negIndex is 34231
+The minLeaf at this stage is 1000
+Iter 1: nPos=20000, nNeg=34231, 
+The FAR of this tree is 42.4966%
+This DQT contains 16 nodes
+FAR at 1 stage is 36.3675%
+***********************************
+Before trim the num of posIndex is 20000
+Before trim the num of negIndex is 14547
+The minLeaf at this stage is 1000
+Iter 2: nPos=20000, nNeg=14504, 
+The FAR of this tree is 60.1155%
+This DQT contains 14 nodes
+FAR at 2 stage is 21.8625%
+***********************************
+Before trim the num of posIndex is 20000
+Before trim the num of negIndex is 8745
+The minLeaf at this stage is 1000
+Iter 3: nPos=20000, nNeg=8469, 
+The FAR of this tree is 77.9188%
+This DQT contains 13 nodes
+FAR at 3 stage is 17.035%
+***********************************
+Before trim the num of posIndex is 20000
+Before trim the num of negIndex is 6814
+The minLeaf at this stage is 1000
+Iter 4: nPos=20000, nNeg=6615, 
+The FAR of this tree is 19.5627%
+This DQT contains 13 nodes
+FAR at 4 stage is 3.3325%
+
+
+No enough negative samples. The AdaBoost learning terminates at iteration 4. nNegPass = 1333.
+The adaboost training is finished at inner cycle.
+Weak classifier 5 FAR: 0.033325
+Bootstrap negtive samples
+Bootstrap Done
+After bootstrap :40000
+Test current model
+Warning: some negative samples cannot pass all stages, pass rate is 0.068375
+***********************************
+Before trim the num of posIndex is 20000
+Before trim the num of negIndex is 2735
+The minLeaf at this stage is 1000
+Iter 5: nPos=20000, nNeg=2665, 
+The FAR of this tree is 80.9872%
+This DQT contains 10 nodes
+FAR at 5 stage is 2.6989%
+
+
+No enough negative samples. The AdaBoost learning terminates at iteration 5. nNegPass = 2215.
+The adaboost training is finished at inner cycle.
+Weak classifier 6 FAR: 0.026989
+Bootstrap negtive samples
+Bootstrap Done
+After bootstrap :40000
+Test current model
+Warning: some negative samples cannot pass all stages, pass rate is 0.08375
+***********************************
+Before trim the num of posIndex is 20000
+Before trim the num of negIndex is 3350
+The minLeaf at this stage is 1000
+Iter 6: nPos=20000, nNeg=3238, 
+The FAR of this tree is 26.597%
+This DQT contains 11 nodes
+FAR at 6 stage is 0.717826%
+
+
+No enough negative samples. The AdaBoost learning terminates at iteration 6. nNegPass = 891.
+The adaboost training is finished at inner cycle.
+Weak classifier 7 FAR: 0.00717826
+Bootstrap negtive samples
+Bootstrap Done
+After bootstrap :40000
+Test current model
+Warning: some positive samples cannot pass all stages. pass rate is 0.99995
+Warning: some negative samples cannot pass all stages, pass rate is 0.030725
+***********************************
+Before trim the num of posIndex is 19999
+Before trim the num of negIndex is 1229
+The minLeaf at this stage is 1000
+Iter 7: nPos=15579, nNeg=1197, 
+The FAR of this tree is 41.4972%
+This DQT contains 7 nodes
+FAR at 7 stage is 0.297878%
+
+
+No enough negative samples. The AdaBoost learning terminates at iteration 7. nNegPass = 510.
+The adaboost training is finished at inner cycle.
+Weak classifier 8 FAR: 0.00297878
+Bootstrap negtive samples
+Bootstrap Done
+After bootstrap :40000
+Test current model
+Warning: some positive samples cannot pass all stages. pass rate is 0.9999
+Warning: some negative samples cannot pass all stages, pass rate is 0.01635
+
+No enough negative samples. The Adaboost learning terninates at iteration 8. nNegPass = 654
+The adaboost training is finished at inner cycle.
+
+
+No effective features for further detector learning.

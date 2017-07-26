@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<Para MINDR="0.985000014" MAXFAR="9.99999975e-05" treeLevel="6" minSamples="1000" minLeaf="1000" negRatio="2" minNegRatio="0.29999999999999999" numPosSample="20000" minLeafFrac="0.01" />
+<Tree ID="1" threshold="-0.746505141">
+	<xNode ID="32" leftFit="-0.992029428" rightFit="-0.867620766" threshold1="132" threshold2="158" featID="77193" />
+	<xNode ID="16" leftFit="-0.986282706" rightFit="-0.8125" threshold1="133" threshold2="156" featID="77541" />
+	<xNode ID="8" leftFit="-0.972724855" rightFit="-0.58477509" threshold1="4" threshold2="115" featID="8552" />
+	<xNode ID="4" leftFit="-0.956361532" rightFit="-0.472020507" threshold1="134" threshold2="160" featID="77334" />
+	<xNode ID="18" leftFit="-0.977035463" rightFit="-0.525597274" threshold1="133" threshold2="220" featID="49635" />
+	<xNode ID="9" leftFit="-0.805699468" rightFit="0.17440401" threshold1="134" threshold2="254" featID="75974" />
+	<xNode ID="2" leftFit="-0.885692894" rightFit="0.100529097" threshold1="1" threshold2="111" featID="7038" />
+	<xNode ID="5" leftFit="-0.845691383" rightFit="0.642467737" threshold1="136" threshold2="254" featID="3583" />
+	<xNode ID="11" leftFit="0.20770289" rightFit="0.953717351" threshold1="123" threshold2="131" featID="4353" />
+	<xNode ID="1" leftFit="-0.741815269" rightFit="0.656846583" threshold1="1" threshold2="113" featID="8175" />
+	<xNode ID="24" leftFit="-1" rightFit="-0.960396051" threshold1="21" threshold2="127" featID="19520" />
+	<xNode ID="12" leftFit="-0.988864124" rightFit="-0.746505141" threshold1="4" threshold2="122" featID="16029" />
+	<xNode ID="6" leftFit="-0.933118999" rightFit="-0.084927313" threshold1="129" threshold2="254" featID="2802" />
+	<xNode ID="3" leftFit="-0.74748826" rightFit="0.886883557" threshold1="132" threshold2="254" featID="3586" />
+	<xNode ID="7" leftFit="-0.585164845" rightFit="0.948117256" threshold1="97" threshold2="164" featID="56599" />
+	<xNode ID="15" leftFit="0.163535148" rightFit="0.981707156" threshold1="1" threshold2="125" featID="546" />
+	<xNode ID="31" leftFit="0.766407132" rightFit="0.993893027" threshold1="106" threshold2="156" featID="43524" />
+	<xNode ID="63" leftFit="0.998649836" rightFit="0.928071022" threshold1="0" threshold2="140" featID="18735" />
+</Tree>
+<Tree ID="2" threshold="-0.431470752">
+	<xNode ID="16" leftFit="-1" rightFit="-0.985938489" threshold1="116" threshold2="183" featID="53143" />
+	<xNode ID="8" leftFit="-0.994961917" rightFit="-0.91717732" threshold1="116" threshold2="155" featID="67750" />
+	<xNode ID="4" leftFit="-0.97370857" rightFit="-0.673543394" threshold1="156" threshold2="254" featID="49177" />
+	<xNode ID="2" leftFit="-0.914990604" rightFit="-0.235468999" threshold1="122" threshold2="143" featID="55066" />
+	<xNode ID="1" leftFit="-0.803767025" rightFit="0.516329169" threshold1="121" threshold2="147" featID="54619" />
+	<xNode ID="3" leftFit="-0.605874777" rightFit="0.770326674" threshold1="119" threshold2="179" featID="49784" />
+	<xNode ID="7" leftFit="-0.326724172" rightFit="0.888598204" threshold1="104" threshold2="161" featID="62819" />
+	<xNode ID="30" leftFit="0.624409378" rightFit="0.984644294" threshold1="111" threshold2="143" featID="48444" />
+	<xNode ID="61" leftFit="0.995651484" rightFit="0.857510805" threshold1="122" threshold2="130" featID="34350" />
+	<xNode ID="15" leftFit="0.956031919" rightFit="0.183224201" threshold1="126" threshold2="129" featID="51359" />
+</Tree>
+<Tree ID="3" threshold="0.00233972073">
+	<xNode ID="2" leftFit="-0.351125985" rightFit="0.857311606" threshold1="106" threshold2="149" featID="47434" />
+	<xNode ID="10" leftFit="0.597894073" rightFit="0.989230335" threshold1="106" threshold2="138" featID="4741" />
+	<xNode ID="21" leftFit="0.889654636" rightFit="0.999003589" threshold1="38" threshold2="134" featID="36748" />
+	<xNode ID="43" leftFit="1" rightFit="0.985707104" threshold1="124" threshold2="129" featID="39872" />
+	<xNode ID="5" leftFit="0.946241319" rightFit="0.135930017" threshold1="121" threshold2="133" featID="28440" />
+	<xNode ID="1" leftFit="0.64357698" rightFit="-0.579893947" threshold1="115" threshold2="143" featID="21830" />
+	<xNode ID="6" leftFit="-0.446273535" rightFit="-0.947291613" threshold1="115" threshold2="137" featID="22509" />
+	<xNode ID="3" leftFit="-0.841342628" rightFit="0.125105634" threshold1="122" threshold2="130" featID="3183" />
+	<xNode ID="14" leftFit="0.545596659" rightFit="1" threshold1="138" threshold2="189" featID="48018" />
+	<xNode ID="7" leftFit="0.794287801" rightFit="-0.474334627" threshold1="121" threshold2="140" featID="55047" />
+</Tree>

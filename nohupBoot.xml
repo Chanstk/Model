@@ -1,0 +1,1316 @@
+Prepare postive samples
+The picture has been already enough
+ done
+The number of postvie samples is 20000
+Prepare negtive samples
+ done
+The number of negtive samples is 2846
+***********************************
+Before trim the num of posIndex is 20000
+Before trim the num of negIndex is 40000
+The minLeaf at this stage is 1000
+Iter 0: nPos=20000, nNeg=40000, 
+The FAR of this tree is 92.17%
+This DQT contains 17 nodes
+FAR at 0 stage is 92.17%
+***********************************
+Before trim the num of posIndex is 20000
+Before trim the num of negIndex is 36868
+The minLeaf at this stage is 1000
+Iter 1: nPos=20000, nNeg=36868, 
+The FAR of this tree is 40.7426%
+This DQT contains 17 nodes
+FAR at 1 stage is 37.5525%
+***********************************
+Before trim the num of posIndex is 20000
+Before trim the num of negIndex is 15021
+The minLeaf at this stage is 1000
+Iter 2: nPos=20000, nNeg=14836, 
+The FAR of this tree is 45.5629%
+This DQT contains 13 nodes
+FAR at 2 stage is 17.11%
+
+
+No enough negative samples. The AdaBoost learning terminates at iteration 2. nNegPass = 6844.
+The adaboost training is finished at inner cycle.
+Weak classifier 3 FAR: 0.1711
+Bootstrap negtive samples
+Bootstrap Done
+After bootstrap :40000
+Test current model
+Warning: some negative samples cannot pass all stages, pass rate is 0.3208
+***********************************
+Before trim the num of posIndex is 20000
+Before trim the num of negIndex is 12832
+The minLeaf at this stage is 1000
+Iter 3: nPos=20000, nNeg=12528, 
+The FAR of this tree is 58.9931%
+This DQT contains 15 nodes
+FAR at 3 stage is 10.0937%
+
+
+No enough negative samples. The AdaBoost learning terminates at iteration 3. nNegPass = 7570.
+The adaboost training is finished at inner cycle.
+Weak classifier 4 FAR: 0.100937
+Bootstrap negtive samples
+Bootstrap Done
+After bootstrap :40000
+Test current model
+Warning: some positive samples cannot pass all stages. pass rate is 0.99995
+Warning: some negative samples cannot pass all stages, pass rate is 0.274825
+***********************************
+Before trim the num of posIndex is 19999
+Before trim the num of negIndex is 10993
+The minLeaf at this stage is 1000
+Iter 4: nPos=19400, nNeg=10675, 
+The FAR of this tree is 32.0841%
+This DQT contains 14 nodes
+FAR at 4 stage is 3.23848%
+
+
+No enough negative samples. The AdaBoost learning terminates at iteration 4. nNegPass = 3527.
+The adaboost training is finished at inner cycle.
+Weak classifier 5 FAR: 0.0323848
+Bootstrap negtive samples
+Bootstrap Done
+After bootstrap :40000
+Test current model
+Warning: some positive samples cannot pass all stages. pass rate is 0.99995
+Warning: some negative samples cannot pass all stages, pass rate is 0.118975
+***********************************
+Before trim the num of posIndex is 19999
+Before trim the num of negIndex is 4759
+The minLeaf at this stage is 1000
+Iter 5: nPos=19502, nNeg=4619, 
+The FAR of this tree is 26.203%
+This DQT contains 10 nodes
+FAR at 5 stage is 0.848578%
+
+
+No enough negative samples. The AdaBoost learning terminates at iteration 5. nNegPass = 1247.
+The adaboost training is finished at inner cycle.
+Weak classifier 6 FAR: 0.00848578
+Bootstrap negtive samples
+Bootstrap Done
+After bootstrap :40000
+Test current model
+Warning: some positive samples cannot pass all stages. pass rate is 0.9999
+Warning: some negative samples cannot pass all stages, pass rate is 0.039675
+***********************************
+Before trim the num of posIndex is 19998
+Before trim the num of negIndex is 1587
+The minLeaf at this stage is 1000
+Iter 6: nPos=19651, nNeg=1543, 
+The FAR of this tree is 56.6478%
+This DQT contains 7 nodes
+FAR at 6 stage is 0.4807%
+
+
+No enough negative samples. The AdaBoost learning terminates at iteration 6. nNegPass = 899.
+The adaboost training is finished at inner cycle.
+Weak classifier 7 FAR: 0.004807
+Bootstrap negtive samples
+Bootstrap Done
+After bootstrap :40000
+Test current model
+Warning: some positive samples cannot pass all stages. pass rate is 0.99985
+Warning: some negative samples cannot pass all stages, pass rate is 0.02825
+***********************************
+Before trim the num of posIndex is 19997
+Before trim the num of negIndex is 1130
+The minLeaf at this stage is 1000
+Iter 7: nPos=16517, nNeg=1097, 
+The FAR of this tree is 29.292%
+This DQT contains 9 nodes
+FAR at 7 stage is 0.140807%
+
+
+No enough negative samples. The AdaBoost learning terminates at iteration 7. nNegPass = 331.
+The adaboost training is finished at inner cycle.
+Weak classifier 8 FAR: 0.00140807
+Bootstrap negtive samples
+Bootstrap Done
+After bootstrap :40000
+Test current model
+Warning: some positive samples cannot pass all stages. pass rate is 0.9998
+Warning: some negative samples cannot pass all stages, pass rate is 0.0104
+
+No enough negative samples. The Adaboost learning terninates at iteration 8. nNegPass = 416
+The adaboost training is finished at inner cycle.
+Weak classifier 8 FAR: 0.00140807
+Bootstrap negtive samples
+Bootstrap Done
+After bootstrap :40000
+Test current model
+Warning: some positive samples cannot pass all stages. pass rate is 0.9998
+Warning: some negative samples cannot pass all stages, pass rate is 0.0125
+
+No enough negative samples. The Adaboost learning terninates at iteration 8. nNegPass = 500
+The adaboost training is finished at inner cycle.
+Weak classifier 8 FAR: 0.00140807
+Bootstrap negtive samples
+Bootstrap Done
+After bootstrap :40000
+Test current model
+Warning: some positive samples cannot pass all stages. pass rate is 0.9998
+Warning: some negative samples cannot pass all stages, pass rate is 0.0144
+
+No enough negative samples. The Adaboost learning terninates at iteration 8. nNegPass = 576
+The adaboost training is finished at inner cycle.
+Weak classifier 8 FAR: 0.00140807
+Bootstrap negtive samples
+Bootstrap Done
+After bootstrap :40000
+Test current model
+Warning: some positive samples cannot pass all stages. pass rate is 0.9998
+Warning: some negative samples cannot pass all stages, pass rate is 0.016275
+
+No enough negative samples. The Adaboost learning terninates at iteration 8. nNegPass = 651
+The adaboost training is finished at inner cycle.
+Weak classifier 8 FAR: 0.00140807
+Bootstrap negtive samples
+Bootstrap Done
+After bootstrap :40000
+Test current model
+Warning: some positive samples cannot pass all stages. pass rate is 0.9998
+Warning: some negative samples cannot pass all stages, pass rate is 0.018325
+
+No enough negative samples. The Adaboost learning terninates at iteration 8. nNegPass = 733
+The adaboost training is finished at inner cycle.
+Weak classifier 8 FAR: 0.00140807
+Bootstrap negtive samples
+Bootstrap Done
+After bootstrap :40000
+Test current model
+Warning: some positive samples cannot pass all stages. pass rate is 0.9998
+Warning: some negative samples cannot pass all stages, pass rate is 0.02035
+
+No enough negative samples. The Adaboost learning terninates at iteration 8. nNegPass = 814
+The adaboost training is finished at inner cycle.
+Weak classifier 8 FAR: 0.00140807
+Bootstrap negtive samples
+Bootstrap Done
+After bootstrap :40000
+Test current model
+Warning: some positive samples cannot pass all stages. pass rate is 0.9998
+Warning: some negative samples cannot pass all stages, pass rate is 0.022475
+
+No enough negative samples. The Adaboost learning terninates at iteration 8. nNegPass = 899
+The adaboost training is finished at inner cycle.
+Weak classifier 8 FAR: 0.00140807
+Bootstrap negtive samples
+Bootstrap Done
+After bootstrap :40000
+Test current model
+Warning: some positive samples cannot pass all stages. pass rate is 0.9998
+Warning: some negative samples cannot pass all stages, pass rate is 0.024225
+
+No enough negative samples. The Adaboost learning terninates at iteration 8. nNegPass = 969
+The adaboost training is finished at inner cycle.
+Weak classifier 8 FAR: 0.00140807
+Bootstrap negtive samples
+Bootstrap Done
+After bootstrap :40000
+Test current model
+Warning: some positive samples cannot pass all stages. pass rate is 0.9998
+Warning: some negative samples cannot pass all stages, pass rate is 0.026875
+***********************************
+Before trim the num of posIndex is 19996
+Before trim the num of negIndex is 1075
+The minLeaf at this stage is 1000
+Iter 8: nPos=14823, nNeg=1044, 
+The FAR of this tree is 90.6977%
+This DQT contains 6 nodes
+FAR at 8 stage is 0.127709%
+
+
+No enough negative samples. The AdaBoost learning terminates at iteration 8. nNegPass = 975.
+The adaboost training is finished at inner cycle.
+Weak classifier 9 FAR: 0.00127709
+Bootstrap negtive samples
+Bootstrap Done
+After bootstrap :40000
+Test current model
+Warning: some positive samples cannot pass all stages. pass rate is 0.9998
+Warning: some negative samples cannot pass all stages, pass rate is 0.026025
+***********************************
+Before trim the num of posIndex is 19996
+Before trim the num of negIndex is 1041
+The minLeaf at this stage is 1000
+Iter 9: nPos=12441, nNeg=1002, 
+The FAR of this tree is 36.2152%
+This DQT contains 7 nodes
+FAR at 9 stage is 0.0462499%
+
+
+No enough negative samples. The AdaBoost learning terminates at iteration 9. nNegPass = 377.
+The adaboost training is finished at inner cycle.
+Weak classifier 10 FAR: 0.000462499
+Bootstrap negtive samples
+Bootstrap Done
+After bootstrap :40000
+Test current model
+Warning: some positive samples cannot pass all stages. pass rate is 0.9998
+Warning: some negative samples cannot pass all stages, pass rate is 0.010025
+
+No enough negative samples. The Adaboost learning terninates at iteration 10. nNegPass = 401
+The adaboost training is finished at inner cycle.
+Weak classifier 10 FAR: 0.000462499
+Bootstrap negtive samples
+Bootstrap Done
+After bootstrap :40000
+Test current model
+Warning: some positive samples cannot pass all stages. pass rate is 0.9998
+Warning: some negative samples cannot pass all stages, pass rate is 0.010775
+
+No enough negative samples. The Adaboost learning terninates at iteration 10. nNegPass = 431
+The adaboost training is finished at inner cycle.
+Weak classifier 10 FAR: 0.000462499
+Bootstrap negtive samples
+Bootstrap Done
+After bootstrap :40000
+Test current model
+Warning: some positive samples cannot pass all stages. pass rate is 0.9998
+Warning: some negative samples cannot pass all stages, pass rate is 0.01145
+
+No enough negative samples. The Adaboost learning terninates at iteration 10. nNegPass = 458
+The adaboost training is finished at inner cycle.
+Weak classifier 10 FAR: 0.000462499
+Bootstrap negtive samples
+Bootstrap Done
+After bootstrap :40000
+Test current model
+Warning: some positive samples cannot pass all stages. pass rate is 0.9998
+Warning: some negative samples cannot pass all stages, pass rate is 0.012325
+
+No enough negative samples. The Adaboost learning terninates at iteration 10. nNegPass = 493
+The adaboost training is finished at inner cycle.
+Weak classifier 10 FAR: 0.000462499
+Bootstrap negtive samples
+Bootstrap Done
+After bootstrap :40000
+Test current model
+Warning: some positive samples cannot pass all stages. pass rate is 0.9998
+Warning: some negative samples cannot pass all stages, pass rate is 0.013275
+
+No enough negative samples. The Adaboost learning terninates at iteration 10. nNegPass = 531
+The adaboost training is finished at inner cycle.
+Weak classifier 10 FAR: 0.000462499
+Bootstrap negtive samples
+Bootstrap Done
+After bootstrap :40000
+Test current model
+Warning: some positive samples cannot pass all stages. pass rate is 0.9998
+Warning: some negative samples cannot pass all stages, pass rate is 0.014125
+
+No enough negative samples. The Adaboost learning terninates at iteration 10. nNegPass = 565
+The adaboost training is finished at inner cycle.
+Weak classifier 10 FAR: 0.000462499
+Bootstrap negtive samples
+Bootstrap Done
+After bootstrap :40000
+Test current model
+Warning: some positive samples cannot pass all stages. pass rate is 0.9998
+Warning: some negative samples cannot pass all stages, pass rate is 0.0149
+
+No enough negative samples. The Adaboost learning terninates at iteration 10. nNegPass = 596
+The adaboost training is finished at inner cycle.
+Weak classifier 10 FAR: 0.000462499
+Bootstrap negtive samples
+Bootstrap Done
+After bootstrap :40000
+Test current model
+Warning: some positive samples cannot pass all stages. pass rate is 0.9998
+Warning: some negative samples cannot pass all stages, pass rate is 0.0157
+
+No enough negative samples. The Adaboost learning terninates at iteration 10. nNegPass = 628
+The adaboost training is finished at inner cycle.
+Weak classifier 10 FAR: 0.000462499
+Bootstrap negtive samples
+Bootstrap Done
+After bootstrap :40000
+Test current model
+Warning: some positive samples cannot pass all stages. pass rate is 0.9998
+Warning: some negative samples cannot pass all stages, pass rate is 0.016475
+
+No enough negative samples. The Adaboost learning terninates at iteration 10. nNegPass = 659
+The adaboost training is finished at inner cycle.
+Weak classifier 10 FAR: 0.000462499
+Bootstrap negtive samples
+Bootstrap Done
+After bootstrap :40000
+Test current model
+Warning: some positive samples cannot pass all stages. pass rate is 0.9998
+Warning: some negative samples cannot pass all stages, pass rate is 0.01735
+
+No enough negative samples. The Adaboost learning terninates at iteration 10. nNegPass = 694
+The adaboost training is finished at inner cycle.
+Weak classifier 10 FAR: 0.000462499
+Bootstrap negtive samples
+Bootstrap Done
+After bootstrap :40000
+Test current model
+Warning: some positive samples cannot pass all stages. pass rate is 0.9998
+Warning: some negative samples cannot pass all stages, pass rate is 0.01815
+
+No enough negative samples. The Adaboost learning terninates at iteration 10. nNegPass = 726
+The adaboost training is finished at inner cycle.
+Weak classifier 10 FAR: 0.000462499
+Bootstrap negtive samples
+Bootstrap Done
+After bootstrap :40000
+Test current model
+Warning: some positive samples cannot pass all stages. pass rate is 0.9998
+Warning: some negative samples cannot pass all stages, pass rate is 0.01915
+
+No enough negative samples. The Adaboost learning terninates at iteration 10. nNegPass = 766
+The adaboost training is finished at inner cycle.
+Weak classifier 10 FAR: 0.000462499
+Bootstrap negtive samples
+Bootstrap Done
+After bootstrap :40000
+Test current model
+Warning: some positive samples cannot pass all stages. pass rate is 0.9998
+Warning: some negative samples cannot pass all stages, pass rate is 0.019825
+
+No enough negative samples. The Adaboost learning terninates at iteration 10. nNegPass = 793
+The adaboost training is finished at inner cycle.
+Weak classifier 10 FAR: 0.000462499
+Bootstrap negtive samples
+Bootstrap Done
+After bootstrap :40000
+Test current model
+Warning: some positive samples cannot pass all stages. pass rate is 0.9998
+Warning: some negative samples cannot pass all stages, pass rate is 0.020775
+
+No enough negative samples. The Adaboost learning terninates at iteration 10. nNegPass = 831
+The adaboost training is finished at inner cycle.
+Weak classifier 10 FAR: 0.000462499
+Bootstrap negtive samples
+Bootstrap Done
+After bootstrap :40000
+Test current model
+Warning: some positive samples cannot pass all stages. pass rate is 0.9998
+Warning: some negative samples cannot pass all stages, pass rate is 0.02125
+
+No enough negative samples. The Adaboost learning terninates at iteration 10. nNegPass = 850
+The adaboost training is finished at inner cycle.
+Weak classifier 10 FAR: 0.000462499
+Bootstrap negtive samples
+Bootstrap Done
+After bootstrap :40000
+Test current model
+Warning: some positive samples cannot pass all stages. pass rate is 0.9998
+Warning: some negative samples cannot pass all stages, pass rate is 0.0217
+
+No enough negative samples. The Adaboost learning terninates at iteration 10. nNegPass = 868
+The adaboost training is finished at inner cycle.
+Weak classifier 10 FAR: 0.000462499
+Bootstrap negtive samples
+Bootstrap Done
+After bootstrap :40000
+Test current model
+Warning: some positive samples cannot pass all stages. pass rate is 0.9998
+Warning: some negative samples cannot pass all stages, pass rate is 0.0225
+
+No enough negative samples. The Adaboost learning terninates at iteration 10. nNegPass = 900
+The adaboost training is finished at inner cycle.
+Weak classifier 10 FAR: 0.000462499
+Bootstrap negtive samples
+Bootstrap Done
+After bootstrap :40000
+Test current model
+Warning: some positive samples cannot pass all stages. pass rate is 0.9998
+Warning: some negative samples cannot pass all stages, pass rate is 0.02325
+
+No enough negative samples. The Adaboost learning terninates at iteration 10. nNegPass = 930
+The adaboost training is finished at inner cycle.
+Weak classifier 10 FAR: 0.000462499
+Bootstrap negtive samples
+Bootstrap Done
+After bootstrap :40000
+Test current model
+Warning: some positive samples cannot pass all stages. pass rate is 0.9998
+Warning: some negative samples cannot pass all stages, pass rate is 0.024125
+
+No enough negative samples. The Adaboost learning terninates at iteration 10. nNegPass = 965
+The adaboost training is finished at inner cycle.
+Weak classifier 10 FAR: 0.000462499
+Bootstrap negtive samples
+Bootstrap Done
+After bootstrap :40000
+Test current model
+Warning: some positive samples cannot pass all stages. pass rate is 0.9998
+Warning: some negative samples cannot pass all stages, pass rate is 0.024775
+
+No enough negative samples. The Adaboost learning terninates at iteration 10. nNegPass = 991
+The adaboost training is finished at inner cycle.
+Weak classifier 10 FAR: 0.000462499
+Bootstrap negtive samples
+Bootstrap Done
+After bootstrap :40000
+Test current model
+Warning: some positive samples cannot pass all stages. pass rate is 0.9998
+Warning: some negative samples cannot pass all stages, pass rate is 0.0255
+***********************************
+Before trim the num of posIndex is 19996
+Before trim the num of negIndex is 1020
+The minLeaf at this stage is 1000
+Iter 10: nPos=11045, nNeg=1000, 
+The FAR of this tree is 53.5294%
+This DQT contains 6 nodes
+FAR at 10 stage is 0.0247573%
+
+
+No enough negative samples. The AdaBoost learning terminates at iteration 10. nNegPass = 546.
+The adaboost training is finished at inner cycle.
+Weak classifier 11 FAR: 0.000247573
+Bootstrap negtive samples
+Bootstrap Done
+After bootstrap :40000
+Test current model
+Warning: some positive samples cannot pass all stages. pass rate is 0.9998
+Warning: some negative samples cannot pass all stages, pass rate is 0.0142
+
+No enough negative samples. The Adaboost learning terninates at iteration 11. nNegPass = 568
+The adaboost training is finished at inner cycle.
+Weak classifier 11 FAR: 0.000247573
+Bootstrap negtive samples
+Bootstrap Done
+After bootstrap :40000
+Test current model
+Warning: some positive samples cannot pass all stages. pass rate is 0.9998
+Warning: some negative samples cannot pass all stages, pass rate is 0.01455
+
+No enough negative samples. The Adaboost learning terninates at iteration 11. nNegPass = 582
+The adaboost training is finished at inner cycle.
+Weak classifier 11 FAR: 0.000247573
+Bootstrap negtive samples
+Bootstrap Done
+After bootstrap :40000
+Test current model
+Warning: some positive samples cannot pass all stages. pass rate is 0.9998
+Warning: some negative samples cannot pass all stages, pass rate is 0.01495
+
+No enough negative samples. The Adaboost learning terninates at iteration 11. nNegPass = 598
+The adaboost training is finished at inner cycle.
+Weak classifier 11 FAR: 0.000247573
+Bootstrap negtive samples
+Bootstrap Done
+After bootstrap :40000
+Test current model
+Warning: some positive samples cannot pass all stages. pass rate is 0.9998
+Warning: some negative samples cannot pass all stages, pass rate is 0.01545
+
+No enough negative samples. The Adaboost learning terninates at iteration 11. nNegPass = 618
+The adaboost training is finished at inner cycle.
+Weak classifier 11 FAR: 0.000247573
+Bootstrap negtive samples
+Bootstrap Done
+After bootstrap :40000
+Test current model
+Warning: some positive samples cannot pass all stages. pass rate is 0.9998
+Warning: some negative samples cannot pass all stages, pass rate is 0.01585
+
+No enough negative samples. The Adaboost learning terninates at iteration 11. nNegPass = 634
+The adaboost training is finished at inner cycle.
+Weak classifier 11 FAR: 0.000247573
+Bootstrap negtive samples
+Bootstrap Done
+After bootstrap :40000
+Test current model
+Warning: some positive samples cannot pass all stages. pass rate is 0.9998
+Warning: some negative samples cannot pass all stages, pass rate is 0.0163
+
+No enough negative samples. The Adaboost learning terninates at iteration 11. nNegPass = 652
+The adaboost training is finished at inner cycle.
+Weak classifier 11 FAR: 0.000247573
+Bootstrap negtive samples
+Bootstrap Done
+After bootstrap :40000
+Test current model
+Warning: some positive samples cannot pass all stages. pass rate is 0.9998
+Warning: some negative samples cannot pass all stages, pass rate is 0.0168
+
+No enough negative samples. The Adaboost learning terninates at iteration 11. nNegPass = 672
+The adaboost training is finished at inner cycle.
+Weak classifier 11 FAR: 0.000247573
+Bootstrap negtive samples
+Bootstrap Done
+After bootstrap :40000
+Test current model
+Warning: some positive samples cannot pass all stages. pass rate is 0.9998
+Warning: some negative samples cannot pass all stages, pass rate is 0.0173
+
+No enough negative samples. The Adaboost learning terninates at iteration 11. nNegPass = 692
+The adaboost training is finished at inner cycle.
+Weak classifier 11 FAR: 0.000247573
+Bootstrap negtive samples
+Bootstrap Done
+After bootstrap :40000
+Test current model
+Warning: some positive samples cannot pass all stages. pass rate is 0.9998
+Warning: some negative samples cannot pass all stages, pass rate is 0.0178
+
+No enough negative samples. The Adaboost learning terninates at iteration 11. nNegPass = 712
+The adaboost training is finished at inner cycle.
+Weak classifier 11 FAR: 0.000247573
+Bootstrap negtive samples
+Bootstrap Done
+After bootstrap :40000
+Test current model
+Warning: some positive samples cannot pass all stages. pass rate is 0.9998
+Warning: some negative samples cannot pass all stages, pass rate is 0.01825
+
+No enough negative samples. The Adaboost learning terninates at iteration 11. nNegPass = 730
+The adaboost training is finished at inner cycle.
+Weak classifier 11 FAR: 0.000247573
+Bootstrap negtive samples
+Bootstrap Done
+After bootstrap :40000
+Test current model
+Warning: some positive samples cannot pass all stages. pass rate is 0.9998
+Warning: some negative samples cannot pass all stages, pass rate is 0.018775
+
+No enough negative samples. The Adaboost learning terninates at iteration 11. nNegPass = 751
+The adaboost training is finished at inner cycle.
+Weak classifier 11 FAR: 0.000247573
+Bootstrap negtive samples
+Bootstrap Done
+After bootstrap :40000
+Test current model
+Warning: some positive samples cannot pass all stages. pass rate is 0.9998
+Warning: some negative samples cannot pass all stages, pass rate is 0.019325
+
+No enough negative samples. The Adaboost learning terninates at iteration 11. nNegPass = 773
+The adaboost training is finished at inner cycle.
+Weak classifier 11 FAR: 0.000247573
+Bootstrap negtive samples
+Bootstrap Done
+After bootstrap :40000
+Test current model
+Warning: some positive samples cannot pass all stages. pass rate is 0.9998
+Warning: some negative samples cannot pass all stages, pass rate is 0.01985
+
+No enough negative samples. The Adaboost learning terninates at iteration 11. nNegPass = 794
+The adaboost training is finished at inner cycle.
+Weak classifier 11 FAR: 0.000247573
+Bootstrap negtive samples
+Bootstrap Done
+After bootstrap :40000
+Test current model
+Warning: some positive samples cannot pass all stages. pass rate is 0.9998
+Warning: some negative samples cannot pass all stages, pass rate is 0.020125
+
+No enough negative samples. The Adaboost learning terninates at iteration 11. nNegPass = 805
+The adaboost training is finished at inner cycle.
+Weak classifier 11 FAR: 0.000247573
+Bootstrap negtive samples
+Bootstrap Done
+After bootstrap :40000
+Test current model
+Warning: some positive samples cannot pass all stages. pass rate is 0.9998
+Warning: some negative samples cannot pass all stages, pass rate is 0.020625
+
+No enough negative samples. The Adaboost learning terninates at iteration 11. nNegPass = 825
+The adaboost training is finished at inner cycle.
+Weak classifier 11 FAR: 0.000247573
+Bootstrap negtive samples
+Bootstrap Done
+After bootstrap :40000
+Test current model
+Warning: some positive samples cannot pass all stages. pass rate is 0.9998
+Warning: some negative samples cannot pass all stages, pass rate is 0.0211
+
+No enough negative samples. The Adaboost learning terninates at iteration 11. nNegPass = 844
+The adaboost training is finished at inner cycle.
+Weak classifier 11 FAR: 0.000247573
+Bootstrap negtive samples
+Bootstrap Done
+After bootstrap :40000
+Test current model
+Warning: some positive samples cannot pass all stages. pass rate is 0.9998
+Warning: some negative samples cannot pass all stages, pass rate is 0.02155
+
+No enough negative samples. The Adaboost learning terninates at iteration 11. nNegPass = 862
+The adaboost training is finished at inner cycle.
+Weak classifier 11 FAR: 0.000247573
+Bootstrap negtive samples
+Bootstrap Done
+After bootstrap :40000
+Test current model
+Warning: some positive samples cannot pass all stages. pass rate is 0.9998
+Warning: some negative samples cannot pass all stages, pass rate is 0.0219
+
+No enough negative samples. The Adaboost learning terninates at iteration 11. nNegPass = 876
+The adaboost training is finished at inner cycle.
+Weak classifier 11 FAR: 0.000247573
+Bootstrap negtive samples
+Bootstrap Done
+After bootstrap :40000
+Test current model
+Warning: some positive samples cannot pass all stages. pass rate is 0.9998
+Warning: some negative samples cannot pass all stages, pass rate is 0.0223
+
+No enough negative samples. The Adaboost learning terninates at iteration 11. nNegPass = 892
+The adaboost training is finished at inner cycle.
+Weak classifier 11 FAR: 0.000247573
+Bootstrap negtive samples
+Bootstrap Done
+After bootstrap :40000
+Test current model
+Warning: some positive samples cannot pass all stages. pass rate is 0.9998
+Warning: some negative samples cannot pass all stages, pass rate is 0.022775
+
+No enough negative samples. The Adaboost learning terninates at iteration 11. nNegPass = 911
+The adaboost training is finished at inner cycle.
+Weak classifier 11 FAR: 0.000247573
+Bootstrap negtive samples
+Bootstrap Done
+After bootstrap :40000
+Test current model
+Warning: some positive samples cannot pass all stages. pass rate is 0.9998
+Warning: some negative samples cannot pass all stages, pass rate is 0.02325
+
+No enough negative samples. The Adaboost learning terninates at iteration 11. nNegPass = 930
+The adaboost training is finished at inner cycle.
+Weak classifier 11 FAR: 0.000247573
+Bootstrap negtive samples
+Bootstrap Done
+After bootstrap :40000
+Test current model
+Warning: some positive samples cannot pass all stages. pass rate is 0.9998
+Warning: some negative samples cannot pass all stages, pass rate is 0.023775
+
+No enough negative samples. The Adaboost learning terninates at iteration 11. nNegPass = 951
+The adaboost training is finished at inner cycle.
+Weak classifier 11 FAR: 0.000247573
+Bootstrap negtive samples
+Bootstrap Done
+After bootstrap :40000
+Test current model
+Warning: some positive samples cannot pass all stages. pass rate is 0.9998
+Warning: some negative samples cannot pass all stages, pass rate is 0.024125
+
+No enough negative samples. The Adaboost learning terninates at iteration 11. nNegPass = 965
+The adaboost training is finished at inner cycle.
+Weak classifier 11 FAR: 0.000247573
+Bootstrap negtive samples
+Bootstrap Done
+After bootstrap :40000
+Test current model
+Warning: some positive samples cannot pass all stages. pass rate is 0.9998
+Warning: some negative samples cannot pass all stages, pass rate is 0.024525
+
+No enough negative samples. The Adaboost learning terninates at iteration 11. nNegPass = 981
+The adaboost training is finished at inner cycle.
+Weak classifier 11 FAR: 0.000247573
+Bootstrap negtive samples
+Bootstrap Done
+After bootstrap :40000
+Test current model
+Warning: some positive samples cannot pass all stages. pass rate is 0.9998
+Warning: some negative samples cannot pass all stages, pass rate is 0.02515
+***********************************
+Before trim the num of posIndex is 19996
+Before trim the num of negIndex is 1006
+The minLeaf at this stage is 1000
+Iter 11: nPos=9712, nNeg=1000, 
+The FAR of this tree is 58.1511%
+This DQT contains 6 nodes
+FAR at 11 stage is 0.0143966%
+
+
+No enough negative samples. The AdaBoost learning terminates at iteration 11. nNegPass = 585.
+The adaboost training is finished at inner cycle.
+Weak classifier 12 FAR: 0.000143966
+Bootstrap negtive samples
+Bootstrap Done
+After bootstrap :40000
+Test current model
+Warning: some positive samples cannot pass all stages. pass rate is 0.9998
+Warning: some negative samples cannot pass all stages, pass rate is 0.01495
+
+No enough negative samples. The Adaboost learning terninates at iteration 12. nNegPass = 598
+The adaboost training is finished at inner cycle.
+Weak classifier 12 FAR: 0.000143966
+Bootstrap negtive samples
+Bootstrap Done
+After bootstrap :40000
+Test current model
+Warning: some positive samples cannot pass all stages. pass rate is 0.9998
+Warning: some negative samples cannot pass all stages, pass rate is 0.015225
+
+No enough negative samples. The Adaboost learning terninates at iteration 12. nNegPass = 609
+The adaboost training is finished at inner cycle.
+Weak classifier 12 FAR: 0.000143966
+Bootstrap negtive samples
+Bootstrap Done
+After bootstrap :40000
+Test current model
+Warning: some positive samples cannot pass all stages. pass rate is 0.9998
+Warning: some negative samples cannot pass all stages, pass rate is 0.015625
+
+No enough negative samples. The Adaboost learning terninates at iteration 12. nNegPass = 625
+The adaboost training is finished at inner cycle.
+Weak classifier 12 FAR: 0.000143966
+Bootstrap negtive samples
+Bootstrap Done
+After bootstrap :40000
+Test current model
+Warning: some positive samples cannot pass all stages. pass rate is 0.9998
+Warning: some negative samples cannot pass all stages, pass rate is 0.01585
+
+No enough negative samples. The Adaboost learning terninates at iteration 12. nNegPass = 634
+The adaboost training is finished at inner cycle.
+Weak classifier 12 FAR: 0.000143966
+Bootstrap negtive samples
+Bootstrap Done
+After bootstrap :40000
+Test current model
+Warning: some positive samples cannot pass all stages. pass rate is 0.9998
+Warning: some negative samples cannot pass all stages, pass rate is 0.016075
+
+No enough negative samples. The Adaboost learning terninates at iteration 12. nNegPass = 643
+The adaboost training is finished at inner cycle.
+Weak classifier 12 FAR: 0.000143966
+Bootstrap negtive samples
+Bootstrap Done
+After bootstrap :40000
+Test current model
+Warning: some positive samples cannot pass all stages. pass rate is 0.9998
+Warning: some negative samples cannot pass all stages, pass rate is 0.016375
+
+No enough negative samples. The Adaboost learning terninates at iteration 12. nNegPass = 655
+The adaboost training is finished at inner cycle.
+Weak classifier 12 FAR: 0.000143966
+Bootstrap negtive samples
+Bootstrap Done
+After bootstrap :40000
+Test current model
+Warning: some positive samples cannot pass all stages. pass rate is 0.9998
+Warning: some negative samples cannot pass all stages, pass rate is 0.01665
+
+No enough negative samples. The Adaboost learning terninates at iteration 12. nNegPass = 666
+The adaboost training is finished at inner cycle.
+Weak classifier 12 FAR: 0.000143966
+Bootstrap negtive samples
+Bootstrap Done
+After bootstrap :40000
+Test current model
+Warning: some positive samples cannot pass all stages. pass rate is 0.9998
+Warning: some negative samples cannot pass all stages, pass rate is 0.0168
+
+No enough negative samples. The Adaboost learning terninates at iteration 12. nNegPass = 672
+The adaboost training is finished at inner cycle.
+Weak classifier 12 FAR: 0.000143966
+Bootstrap negtive samples
+Bootstrap Done
+After bootstrap :40000
+Test current model
+Warning: some positive samples cannot pass all stages. pass rate is 0.9998
+Warning: some negative samples cannot pass all stages, pass rate is 0.01715
+
+No enough negative samples. The Adaboost learning terninates at iteration 12. nNegPass = 686
+The adaboost training is finished at inner cycle.
+Weak classifier 12 FAR: 0.000143966
+Bootstrap negtive samples
+Bootstrap Done
+After bootstrap :40000
+Test current model
+Warning: some positive samples cannot pass all stages. pass rate is 0.9998
+Warning: some negative samples cannot pass all stages, pass rate is 0.0173
+
+No enough negative samples. The Adaboost learning terninates at iteration 12. nNegPass = 692
+The adaboost training is finished at inner cycle.
+Weak classifier 12 FAR: 0.000143966
+Bootstrap negtive samples
+Bootstrap Done
+After bootstrap :40000
+Test current model
+Warning: some positive samples cannot pass all stages. pass rate is 0.9998
+Warning: some negative samples cannot pass all stages, pass rate is 0.0177
+
+No enough negative samples. The Adaboost learning terninates at iteration 12. nNegPass = 708
+The adaboost training is finished at inner cycle.
+Weak classifier 12 FAR: 0.000143966
+Bootstrap negtive samples
+Bootstrap Done
+After bootstrap :40000
+Test current model
+Warning: some positive samples cannot pass all stages. pass rate is 0.9998
+Warning: some negative samples cannot pass all stages, pass rate is 0.0179
+
+No enough negative samples. The Adaboost learning terninates at iteration 12. nNegPass = 716
+The adaboost training is finished at inner cycle.
+Weak classifier 12 FAR: 0.000143966
+Bootstrap negtive samples
+Bootstrap Done
+After bootstrap :40000
+Test current model
+Warning: some positive samples cannot pass all stages. pass rate is 0.9998
+Warning: some negative samples cannot pass all stages, pass rate is 0.0182
+
+No enough negative samples. The Adaboost learning terninates at iteration 12. nNegPass = 728
+The adaboost training is finished at inner cycle.
+Weak classifier 12 FAR: 0.000143966
+Bootstrap negtive samples
+Bootstrap Done
+After bootstrap :40000
+Test current model
+Warning: some positive samples cannot pass all stages. pass rate is 0.9998
+Warning: some negative samples cannot pass all stages, pass rate is 0.01845
+
+No enough negative samples. The Adaboost learning terninates at iteration 12. nNegPass = 738
+The adaboost training is finished at inner cycle.
+Weak classifier 12 FAR: 0.000143966
+Bootstrap negtive samples
+Bootstrap Done
+After bootstrap :40000
+Test current model
+Warning: some positive samples cannot pass all stages. pass rate is 0.9998
+Warning: some negative samples cannot pass all stages, pass rate is 0.01865
+
+No enough negative samples. The Adaboost learning terninates at iteration 12. nNegPass = 746
+The adaboost training is finished at inner cycle.
+Weak classifier 12 FAR: 0.000143966
+Bootstrap negtive samples
+Bootstrap Done
+After bootstrap :40000
+Test current model
+Warning: some positive samples cannot pass all stages. pass rate is 0.9998
+Warning: some negative samples cannot pass all stages, pass rate is 0.01905
+
+No enough negative samples. The Adaboost learning terninates at iteration 12. nNegPass = 762
+The adaboost training is finished at inner cycle.
+Weak classifier 12 FAR: 0.000143966
+Bootstrap negtive samples
+Bootstrap Done
+After bootstrap :40000
+Test current model
+Warning: some positive samples cannot pass all stages. pass rate is 0.9998
+Warning: some negative samples cannot pass all stages, pass rate is 0.019375
+
+No enough negative samples. The Adaboost learning terninates at iteration 12. nNegPass = 775
+The adaboost training is finished at inner cycle.
+Weak classifier 12 FAR: 0.000143966
+Bootstrap negtive samples
+Bootstrap Done
+After bootstrap :40000
+Test current model
+Warning: some positive samples cannot pass all stages. pass rate is 0.9998
+Warning: some negative samples cannot pass all stages, pass rate is 0.019725
+
+No enough negative samples. The Adaboost learning terninates at iteration 12. nNegPass = 789
+The adaboost training is finished at inner cycle.
+Weak classifier 12 FAR: 0.000143966
+Bootstrap negtive samples
+Bootstrap Done
+After bootstrap :40000
+Test current model
+Warning: some positive samples cannot pass all stages. pass rate is 0.9998
+Warning: some negative samples cannot pass all stages, pass rate is 0.020125
+
+No enough negative samples. The Adaboost learning terninates at iteration 12. nNegPass = 805
+The adaboost training is finished at inner cycle.
+Weak classifier 12 FAR: 0.000143966
+Bootstrap negtive samples
+Bootstrap Done
+After bootstrap :40000
+Test current model
+Warning: some positive samples cannot pass all stages. pass rate is 0.9998
+Warning: some negative samples cannot pass all stages, pass rate is 0.02045
+
+No enough negative samples. The Adaboost learning terninates at iteration 12. nNegPass = 818
+The adaboost training is finished at inner cycle.
+Weak classifier 12 FAR: 0.000143966
+Bootstrap negtive samples
+Bootstrap Done
+After bootstrap :40000
+Test current model
+Warning: some positive samples cannot pass all stages. pass rate is 0.9998
+Warning: some negative samples cannot pass all stages, pass rate is 0.020775
+
+No enough negative samples. The Adaboost learning terninates at iteration 12. nNegPass = 831
+The adaboost training is finished at inner cycle.
+Weak classifier 12 FAR: 0.000143966
+Bootstrap negtive samples
+Bootstrap Done
+After bootstrap :40000
+Test current model
+Warning: some positive samples cannot pass all stages. pass rate is 0.9998
+Warning: some negative samples cannot pass all stages, pass rate is 0.021075
+
+No enough negative samples. The Adaboost learning terninates at iteration 12. nNegPass = 843
+The adaboost training is finished at inner cycle.
+Weak classifier 12 FAR: 0.000143966
+Bootstrap negtive samples
+Bootstrap Done
+After bootstrap :40000
+Test current model
+Warning: some positive samples cannot pass all stages. pass rate is 0.9998
+Warning: some negative samples cannot pass all stages, pass rate is 0.021425
+
+No enough negative samples. The Adaboost learning terninates at iteration 12. nNegPass = 857
+The adaboost training is finished at inner cycle.
+Weak classifier 12 FAR: 0.000143966
+Bootstrap negtive samples
+Bootstrap Done
+After bootstrap :40000
+Test current model
+Warning: some positive samples cannot pass all stages. pass rate is 0.9998
+Warning: some negative samples cannot pass all stages, pass rate is 0.0218
+
+No enough negative samples. The Adaboost learning terninates at iteration 12. nNegPass = 872
+The adaboost training is finished at inner cycle.
+Weak classifier 12 FAR: 0.000143966
+Bootstrap negtive samples
+Bootstrap Done
+After bootstrap :40000
+Test current model
+Warning: some positive samples cannot pass all stages. pass rate is 0.9998
+Warning: some negative samples cannot pass all stages, pass rate is 0.02215
+
+No enough negative samples. The Adaboost learning terninates at iteration 12. nNegPass = 886
+The adaboost training is finished at inner cycle.
+Weak classifier 12 FAR: 0.000143966
+Bootstrap negtive samples
+Bootstrap Done
+After bootstrap :40000
+Test current model
+Warning: some positive samples cannot pass all stages. pass rate is 0.9998
+Warning: some negative samples cannot pass all stages, pass rate is 0.022425
+
+No enough negative samples. The Adaboost learning terninates at iteration 12. nNegPass = 897
+The adaboost training is finished at inner cycle.
+Weak classifier 12 FAR: 0.000143966
+Bootstrap negtive samples
+Bootstrap Done
+After bootstrap :40000
+Test current model
+Warning: some positive samples cannot pass all stages. pass rate is 0.9998
+Warning: some negative samples cannot pass all stages, pass rate is 0.022725
+
+No enough negative samples. The Adaboost learning terninates at iteration 12. nNegPass = 909
+The adaboost training is finished at inner cycle.
+Weak classifier 12 FAR: 0.000143966
+Bootstrap negtive samples
+Bootstrap Done
+After bootstrap :40000
+Test current model
+Warning: some positive samples cannot pass all stages. pass rate is 0.9998
+Warning: some negative samples cannot pass all stages, pass rate is 0.023175
+
+No enough negative samples. The Adaboost learning terninates at iteration 12. nNegPass = 927
+The adaboost training is finished at inner cycle.
+Weak classifier 12 FAR: 0.000143966
+Bootstrap negtive samples
+Bootstrap Done
+After bootstrap :40000
+Test current model
+Warning: some positive samples cannot pass all stages. pass rate is 0.9998
+Warning: some negative samples cannot pass all stages, pass rate is 0.023375
+
+No enough negative samples. The Adaboost learning terninates at iteration 12. nNegPass = 935
+The adaboost training is finished at inner cycle.
+Weak classifier 12 FAR: 0.000143966
+Bootstrap negtive samples
+Bootstrap Done
+After bootstrap :40000
+Test current model
+Warning: some positive samples cannot pass all stages. pass rate is 0.9998
+Warning: some negative samples cannot pass all stages, pass rate is 0.0236
+
+No enough negative samples. The Adaboost learning terninates at iteration 12. nNegPass = 944
+The adaboost training is finished at inner cycle.
+Weak classifier 12 FAR: 0.000143966
+Bootstrap negtive samples
+Bootstrap Done
+After bootstrap :40000
+Test current model
+Warning: some positive samples cannot pass all stages. pass rate is 0.9998
+Warning: some negative samples cannot pass all stages, pass rate is 0.02385
+
+No enough negative samples. The Adaboost learning terninates at iteration 12. nNegPass = 954
+The adaboost training is finished at inner cycle.
+Weak classifier 12 FAR: 0.000143966
+Bootstrap negtive samples
+Bootstrap Done
+After bootstrap :40000
+Test current model
+Warning: some positive samples cannot pass all stages. pass rate is 0.9998
+Warning: some negative samples cannot pass all stages, pass rate is 0.024225
+
+No enough negative samples. The Adaboost learning terninates at iteration 12. nNegPass = 969
+The adaboost training is finished at inner cycle.
+Weak classifier 12 FAR: 0.000143966
+Bootstrap negtive samples
+Bootstrap Done
+After bootstrap :40000
+Test current model
+Warning: some positive samples cannot pass all stages. pass rate is 0.9998
+Warning: some negative samples cannot pass all stages, pass rate is 0.02455
+
+No enough negative samples. The Adaboost learning terninates at iteration 12. nNegPass = 982
+The adaboost training is finished at inner cycle.
+Weak classifier 12 FAR: 0.000143966
+Bootstrap negtive samples
+Bootstrap Done
+After bootstrap :40000
+Test current model
+Warning: some positive samples cannot pass all stages. pass rate is 0.9998
+Warning: some negative samples cannot pass all stages, pass rate is 0.02485
+
+No enough negative samples. The Adaboost learning terninates at iteration 12. nNegPass = 994
+The adaboost training is finished at inner cycle.
+Weak classifier 12 FAR: 0.000143966
+Bootstrap negtive samples
+Bootstrap Done
+After bootstrap :40000
+Test current model
+Warning: some positive samples cannot pass all stages. pass rate is 0.9998
+Warning: some negative samples cannot pass all stages, pass rate is 0.025075
+***********************************
+Before trim the num of posIndex is 19996
+Before trim the num of negIndex is 1003
+The minLeaf at this stage is 1000
+Iter 12: nPos=8864, nNeg=1000, 
+The FAR of this tree is 60.8175%
+This DQT contains 7 nodes
+FAR at 12 stage is 0.00875568%
+
+
+No enough negative samples. The AdaBoost learning terminates at iteration 12. nNegPass = 610.
+The adaboost training is finished at inner cycle.
+Weak classifier 13 FAR: 8.75568e-05
+Bootstrap negtive samples
+Bootstrap Done
+After bootstrap :40000
+Test current model
+Warning: some positive samples cannot pass all stages. pass rate is 0.9998
+Warning: some negative samples cannot pass all stages, pass rate is 0.0154
+
+No enough negative samples. The Adaboost learning terninates at iteration 13. nNegPass = 616
+The adaboost training is finished at inner cycle.
+Weak classifier 13 FAR: 8.75568e-05
+Bootstrap negtive samples
+Bootstrap Done
+After bootstrap :40000
+Test current model
+Warning: some positive samples cannot pass all stages. pass rate is 0.9998
+Warning: some negative samples cannot pass all stages, pass rate is 0.015575
+
+No enough negative samples. The Adaboost learning terninates at iteration 13. nNegPass = 623
+The adaboost training is finished at inner cycle.
+Weak classifier 13 FAR: 8.75568e-05
+Bootstrap negtive samples
+Bootstrap Done
+After bootstrap :40000
+Test current model
+Warning: some positive samples cannot pass all stages. pass rate is 0.9998
+Warning: some negative samples cannot pass all stages, pass rate is 0.015825
+
+No enough negative samples. The Adaboost learning terninates at iteration 13. nNegPass = 633
+The adaboost training is finished at inner cycle.
+Weak classifier 13 FAR: 8.75568e-05
+Bootstrap negtive samples
+Bootstrap Done
+After bootstrap :40000
+Test current model
+Warning: some positive samples cannot pass all stages. pass rate is 0.9998
+Warning: some negative samples cannot pass all stages, pass rate is 0.016025
+
+No enough negative samples. The Adaboost learning terninates at iteration 13. nNegPass = 641
+The adaboost training is finished at inner cycle.
+Weak classifier 13 FAR: 8.75568e-05
+Bootstrap negtive samples
+Bootstrap Done
+After bootstrap :40000
+Test current model
+Warning: some positive samples cannot pass all stages. pass rate is 0.9998
+Warning: some negative samples cannot pass all stages, pass rate is 0.01625
+
+No enough negative samples. The Adaboost learning terninates at iteration 13. nNegPass = 650
+The adaboost training is finished at inner cycle.
+Weak classifier 13 FAR: 8.75568e-05
+Bootstrap negtive samples
+Bootstrap Done
+After bootstrap :40000
+Test current model
+Warning: some positive samples cannot pass all stages. pass rate is 0.9998
+Warning: some negative samples cannot pass all stages, pass rate is 0.016525
+
+No enough negative samples. The Adaboost learning terninates at iteration 13. nNegPass = 661
+The adaboost training is finished at inner cycle.
+Weak classifier 13 FAR: 8.75568e-05
+Bootstrap negtive samples
+Bootstrap Done
+After bootstrap :40000
+Test current model
+Warning: some positive samples cannot pass all stages. pass rate is 0.9998
+Warning: some negative samples cannot pass all stages, pass rate is 0.01665
+
+No enough negative samples. The Adaboost learning terninates at iteration 13. nNegPass = 666
+The adaboost training is finished at inner cycle.
+Weak classifier 13 FAR: 8.75568e-05
+Bootstrap negtive samples
+Bootstrap Done
+After bootstrap :40000
+Test current model
+Warning: some positive samples cannot pass all stages. pass rate is 0.9998
+Warning: some negative samples cannot pass all stages, pass rate is 0.016875
+
+No enough negative samples. The Adaboost learning terninates at iteration 13. nNegPass = 675
+The adaboost training is finished at inner cycle.
+Weak classifier 13 FAR: 8.75568e-05
+Bootstrap negtive samples
+Bootstrap Done
+After bootstrap :40000
+Test current model
+Warning: some positive samples cannot pass all stages. pass rate is 0.9998
+Warning: some negative samples cannot pass all stages, pass rate is 0.017125
+
+No enough negative samples. The Adaboost learning terninates at iteration 13. nNegPass = 685
+The adaboost training is finished at inner cycle.
+Weak classifier 13 FAR: 8.75568e-05
+Bootstrap negtive samples
+Bootstrap Done
+After bootstrap :40000
+Test current model
+Warning: some positive samples cannot pass all stages. pass rate is 0.9998
+Warning: some negative samples cannot pass all stages, pass rate is 0.01725
+
+No enough negative samples. The Adaboost learning terninates at iteration 13. nNegPass = 690
+The adaboost training is finished at inner cycle.
+Weak classifier 13 FAR: 8.75568e-05
+Bootstrap negtive samples
+Bootstrap Done
+After bootstrap :40000
+Test current model
+Warning: some positive samples cannot pass all stages. pass rate is 0.9998
+Warning: some negative samples cannot pass all stages, pass rate is 0.017325
+
+No enough negative samples. The Adaboost learning terninates at iteration 13. nNegPass = 693
+The adaboost training is finished at inner cycle.
+Weak classifier 13 FAR: 8.75568e-05
+Bootstrap negtive samples
+Bootstrap Done
+After bootstrap :40000
+Test current model
+Warning: some positive samples cannot pass all stages. pass rate is 0.9998
+Warning: some negative samples cannot pass all stages, pass rate is 0.0174
+
+No enough negative samples. The Adaboost learning terninates at iteration 13. nNegPass = 696
+The adaboost training is finished at inner cycle.
+Weak classifier 13 FAR: 8.75568e-05
+Bootstrap negtive samples
+Bootstrap Done
+After bootstrap :40000
+Test current model
+Warning: some positive samples cannot pass all stages. pass rate is 0.9998
+Warning: some negative samples cannot pass all stages, pass rate is 0.0177
+
+No enough negative samples. The Adaboost learning terninates at iteration 13. nNegPass = 708
+The adaboost training is finished at inner cycle.
+Weak classifier 13 FAR: 8.75568e-05
+Bootstrap negtive samples
+Bootstrap Done
+After bootstrap :40000
+Test current model
+Warning: some positive samples cannot pass all stages. pass rate is 0.9998
+Warning: some negative samples cannot pass all stages, pass rate is 0.017875
+
+No enough negative samples. The Adaboost learning terninates at iteration 13. nNegPass = 715
+The adaboost training is finished at inner cycle.
+Weak classifier 13 FAR: 8.75568e-05
+Bootstrap negtive samples
+Bootstrap Done
+After bootstrap :40000
+Test current model
+Warning: some positive samples cannot pass all stages. pass rate is 0.9998
+Warning: some negative samples cannot pass all stages, pass rate is 0.018025
+
+No enough negative samples. The Adaboost learning terninates at iteration 13. nNegPass = 721
+The adaboost training is finished at inner cycle.
+Weak classifier 13 FAR: 8.75568e-05
+Bootstrap negtive samples
+Bootstrap Done
+After bootstrap :40000
+Test current model
+Warning: some positive samples cannot pass all stages. pass rate is 0.9998
+Warning: some negative samples cannot pass all stages, pass rate is 0.018125
+
+No enough negative samples. The Adaboost learning terninates at iteration 13. nNegPass = 725
+The adaboost training is finished at inner cycle.
+Weak classifier 13 FAR: 8.75568e-05
+Bootstrap negtive samples
+Bootstrap Done
+After bootstrap :40000
+Test current model
+Warning: some positive samples cannot pass all stages. pass rate is 0.9998
+Warning: some negative samples cannot pass all stages, pass rate is 0.01835
+
+No enough negative samples. The Adaboost learning terninates at iteration 13. nNegPass = 734
+The adaboost training is finished at inner cycle.
+Weak classifier 13 FAR: 8.75568e-05
+Bootstrap negtive samples
+Bootstrap Done
+After bootstrap :40000
+Test current model
+Warning: some positive samples cannot pass all stages. pass rate is 0.9998
+Warning: some negative samples cannot pass all stages, pass rate is 0.018375
+
+No enough negative samples. The Adaboost learning terninates at iteration 13. nNegPass = 735
+The adaboost training is finished at inner cycle.
+Weak classifier 13 FAR: 8.75568e-05
+Bootstrap negtive samples
+Bootstrap Done
+After bootstrap :40000
+Test current model
+Warning: some positive samples cannot pass all stages. pass rate is 0.9998
+Warning: some negative samples cannot pass all stages, pass rate is 0.018575
+
+No enough negative samples. The Adaboost learning terninates at iteration 13. nNegPass = 743
+The adaboost training is finished at inner cycle.
+Weak classifier 13 FAR: 8.75568e-05
+Bootstrap negtive samples
+Bootstrap Done
+After bootstrap :40000
+Test current model
+Warning: some positive samples cannot pass all stages. pass rate is 0.9998
+Warning: some negative samples cannot pass all stages, pass rate is 0.018675
+
+No enough negative samples. The Adaboost learning terninates at iteration 13. nNegPass = 747
+The adaboost training is finished at inner cycle.
+Weak classifier 13 FAR: 8.75568e-05
+Bootstrap negtive samples
+Bootstrap Done
+After bootstrap :40000
+Test current model
+Warning: some positive samples cannot pass all stages. pass rate is 0.9998
+Warning: some negative samples cannot pass all stages, pass rate is 0.018825
+
+No enough negative samples. The Adaboost learning terninates at iteration 13. nNegPass = 753
+The adaboost training is finished at inner cycle.
+Weak classifier 13 FAR: 8.75568e-05
+Bootstrap negtive samples
+Bootstrap Done
+After bootstrap :40000
+Test current model
+Warning: some positive samples cannot pass all stages. pass rate is 0.9998
+Warning: some negative samples cannot pass all stages, pass rate is 0.0189
+
+No enough negative samples. The Adaboost learning terninates at iteration 13. nNegPass = 756
+The adaboost training is finished at inner cycle.
+Weak classifier 13 FAR: 8.75568e-05
+Bootstrap negtive samples
+Bootstrap Done
+After bootstrap :40000
+Test current model
+Warning: some positive samples cannot pass all stages. pass rate is 0.9998
+Warning: some negative samples cannot pass all stages, pass rate is 0.019025
+
+No enough negative samples. The Adaboost learning terninates at iteration 13. nNegPass = 761
+The adaboost training is finished at inner cycle.
+Weak classifier 13 FAR: 8.75568e-05
+Bootstrap negtive samples
