@@ -1,0 +1,76 @@
+20 20
+p->ID: 1 t_fea: 215
+p->ID: 2 t_fea: 121
+p->ID: 4 t_fea: 120
+p->ID: 9 t_fea: 68
+
+
+p->ID: 1 t_fea: 111
+p->ID: 2 t_fea: 241
+p->ID: 5 t_fea: 122
+
+
+p->ID: 1 t_fea: 103
+p->ID: 3 t_fea: 132
+p->ID: 7 t_fea: 152
+p->ID: 14 t_fea: 139
+
+
+p->ID: 1 t_fea: 103
+p->ID: 2 t_fea: 153
+p->ID: 4 t_fea: 179
+p->ID: 8 t_fea: 171
+p->ID: 16 t_fea: 168
+
+
+p->ID: 1 t_fea: 88
+p->ID: 3 t_fea: 25
+p->ID: 7 t_fea: 121
+p->ID: 15 t_fea: 114
+
+
+p->ID: 1 t_fea: 153
+p->ID: 3 t_fea: 44
+p->ID: 6 t_fea: 139
+
+
+p->ID: 1 t_fea: 181
+p->ID: 3 t_fea: 149
+p->ID: 6 t_fea: 144
+p->ID: 12 t_fea: 152
+p->ID: 25 t_fea: 158
+p->ID: 50 t_fea: 87
+
+
+p->ID: 1 t_fea: 117
+p->ID: 3 t_fea: 158
+p->ID: 7 t_fea: 99
+p->ID: 14 t_fea: 120
+p->ID: 28 t_fea: 186
+
+
+p->ID: 1 t_fea: 117
+p->ID: 3 t_fea: 146
+p->ID: 6 t_fea: 81
+p->ID: 12 t_fea: 133
+
+
+p->ID: 1 t_fea: 126
+p->ID: 3 t_fea: 139
+p->ID: 6 t_fea: 241
+p->ID: 12 t_fea: 207
+p->ID: 24 t_fea: 113
+p->ID: 48 t_fea: 109
+
+
+p->ID: 1 t_fea: 64
+p->ID: 3 t_fea: 93
+p->ID: 7 t_fea: 101
+p->ID: 14 t_fea: 76
+p->ID: 29 t_fea: 161
+p->ID: 58 t_fea: 182
+
+
+18 18
+#faces : 1
+1
